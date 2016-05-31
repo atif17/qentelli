@@ -1,0 +1,4 @@
+chromeDriverPath=lib\\chromedriver.exe
+ApplicationUrl =http://localhost:8181/ManagementOfHotels/
+adminUserName=admin
+password=admin
